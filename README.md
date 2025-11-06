@@ -2,6 +2,8 @@
 
 Hallo! Dies ist eine Praesentation, die ich im September 2025 fuer mein Seminar "Entwurfsmuster" an der Hochschule Niederrhein gehalten habe.
 
+[**Hier geht's direkt zur vollstaendigen Praesentation (PDF) – sie oeffnet im Browser.**](./Entwurfmuster.pdf)
+
 ## Worum ging es?
 
 In der Software-Architektur ist **enge Kopplung** eines der groessten Probleme, das zu schwer wartbarem Code fuehrt.
