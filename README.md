@@ -1,6 +1,6 @@
 # Praesentation: Observer vs. Mediator Pattern
 
-Hallo! Dies ist eine Praesentation, die ich im September 2025 fuer mein Seminar "Entwurfsmuster" an der Hochschule Niederrhein gehalten habe.
+Dies ist eine Praesentation, die ich im September 2025 fuer mein Seminar "Entwurfsmuster" an der Hochschule Niederrhein gehalten habe.
 
 [**Hier geht's direkt zur vollstaendigen Praesentation (PDF) – sie oeffnet im Browser.**](./Entwurfmuster.pdf)
 
